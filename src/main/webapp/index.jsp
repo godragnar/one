@@ -839,7 +839,7 @@
     <section class="container">
         <div class="section-title">
             <h2>Shop by Category</h2>
-            <p>Browse through our wide range of products in different categories</p>
+            <p>Browse through the wide range of products in different categories in our website</p>
         </div>
         
         <div class="categories">
@@ -889,7 +889,7 @@
                 <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
                 <div class="product-info">
                     <h3>iPhone 14 Pro Max</h3>
-                    <div class="price">$1299 <span class="old-price">$1,199</span></div>
+                    <div class="price">$1599 <span class="old-price">$1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
