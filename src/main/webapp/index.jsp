@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Collection in 2025</h1>
+            <h1>Winter Collection in 2025</h1>
             <p>Discover the latest trends in fashion,tech gadgets and accessories with up to 75% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -839,13 +839,13 @@
     <section class="container">
         <div class="section-title">
             <h2>Shop by Catagories</h2>
-            <p>Browse through the wide range of products in different categories in our website</p>
+            <p>Browse through the wide range of products in different categories in the website</p>
         </div>
         
         <div class="categories">
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
-                <h3>Smartphones</h3>
+                <h3>Mobiles</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
